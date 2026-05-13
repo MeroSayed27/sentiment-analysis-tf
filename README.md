@@ -22,3 +22,15 @@ docker run -it sentiment-analysis
 ```
 
 This structure makes it easier to scale the application consistently across local systems, cloud infrastructure, and edge environments.
+
+## Future Improvements
+
+Planned improvements for this project include:
+
+- Real-time sentiment inference using streaming text inputs
+- REST API deployment with FastAPI
+- Cloud deployment workflows
+- Automated validation testing
+- Scalable inference pipelines for production environments
+
+The long-term goal is to evolve this project from a local prediction tool into a deployable real-time NLP service.
